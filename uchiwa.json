@@ -1,0 +1,27 @@
+{
+  "sensu": [
+    {
+      "name": "Sensu",
+      "host": "10.137.82.87",
+      "port": 4567,
+      "timeout": 10
+    },
+	{
+      "name": "Sensu",
+      "host": "10.137.82.86",
+      "port": 4567,
+      "timeout": 10
+    },
+	{
+      "name": "Sensu",
+      "host": "10.137.80.84",
+      "port": 4567,
+      "timeout": 10
+    }
+  ],
+  "uchiwa": {
+    "host": "0.0.0.0",
+    "port": 3000,
+    "refresh": 10
+  }
+}
