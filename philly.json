@@ -1,0 +1,99 @@
+{
+  "sensu": [
+    {
+      "name": "RR2",
+      "host": "airlabsinfra01.rr2.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR2",
+      "host": "airlabsinfra02.rr2.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR2",
+      "host": "airlabsinfra03.rr2.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR2",
+      "host": "airlabsinfra04.rr2.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR2",
+      "host": "airlabsinfra05.rr2.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
+      "host": "gcrinfra01.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
+      "host": "gcrinfra02.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
+      "host": "gcrinfra03.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
+      "host": "gcrinfra04.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
+      "host": "gcrinfra05.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR1",
+      "host": "phlrrinfra01.rr1.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR1",
+      "host": "phlrrinfra02.rr1.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR1",
+      "host": "phlrrinfra03.rr1.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR1",
+      "host": "phlrrinfra04.rr1.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "RR1",
+      "host": "phlrrinfra05.rr1.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    }
+  ],
+  "uchiwa": {
+    "host": "0.0.0.0",
+    "port": 3000,
+    "refresh": 10
+  }
+}
