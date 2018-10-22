@@ -32,6 +32,12 @@
     },
     {
       "name": "GCR",
+      "host": "gcrinfra00.gcr.philly.selfhost.corp.microsoft.com",
+      "port": 4567,
+      "timeout": 10
+    },
+    {
+      "name": "GCR",
       "host": "gcrinfra01.gcr.philly.selfhost.corp.microsoft.com",
       "port": 4567,
       "timeout": 10
@@ -51,12 +57,6 @@
     {
       "name": "GCR",
       "host": "gcrinfra04.gcr.philly.selfhost.corp.microsoft.com",
-      "port": 4567,
-      "timeout": 10
-    },
-    {
-      "name": "GCR",
-      "host": "gcrinfra05.gcr.philly.selfhost.corp.microsoft.com",
       "port": 4567,
       "timeout": 10
     },
