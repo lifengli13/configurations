@@ -2,19 +2,19 @@
   "sensu": [
     {
       "name": "Sensu",
-      "host": "10.137.82.87",
+      "host": "10.137.80.87",
       "port": 4567,
       "timeout": 10
     },
 	{
       "name": "Sensu",
-      "host": "10.137.82.86",
+      "host": "10.137.82.90",
       "port": 4567,
       "timeout": 10
     },
 	{
       "name": "Sensu",
-      "host": "10.137.80.84",
+      "host": "10.137.82.94",
       "port": 4567,
       "timeout": 10
     }
